@@ -1,0 +1,4 @@
+C:\projects\WebInternet\AppServices\bin\Debug\AppServices.dll
+C:\projects\WebInternet\AppServices\bin\Debug\AppServices.pdb
+C:\projects\WebInternet\AppServices\obj\Debug\AppServices.dll
+C:\projects\WebInternet\AppServices\obj\Debug\AppServices.pdb
